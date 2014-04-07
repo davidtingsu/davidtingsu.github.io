@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2014 Initial Goals"
+date: 2014-04-06 21:22:25 -0700
+comments: true
+categories: goals motivation
+---
+To usher in the new year, I making am note of my goals for 2014 and will continue to adjust the list as needed. My motivation to document my milestones began one day on Quora when I came across Karen Cheng’s response to ‘How do you get a job as a designer without going to design school?’, and her other online pursuits such as Giveit100 and her viral ‘Girl learns to Dance in a Year’ video. Ultimately, I was and am convinced that to increase my proactiveness will lead to a better me in 2014.
+
+- <input type="checkbox"></input> Practice colloquial chinese by reading the comic book 小貝貝
+- <input type="checkbox"></input> Make a parallax page or use a technique found on http://csswizardry.com/work/
+- <input type="checkbox"></input> Finish tasks for IEEE Fall 2014: Facebook + Google Calendar + Rails Admin Integration
+- <input type="checkbox"></input> Finish Reading Smart Thinking
+- <input type="checkbox"></input> Complete Adobe CIB Illustrator
+- <input type="checkbox"></input> Complete Adobe CIB Photoshop
+- <input type="checkbox"></input> 50 yelp reviews
+- <input type="checkbox"></input> Complete You Can Draw in 30 Days
+- <input type="checkbox" checked="checked""></input> Read 7 Effective Habits of Highly Effective People
+- <input type="checkbox"></input> Get to 180 pounds with a fitness routine
+- <input type="checkbox" checked="checked"></input> Apply to Innovative Design  
