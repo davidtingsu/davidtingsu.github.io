@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://davidtingsu.github.io/sitemap.xml 

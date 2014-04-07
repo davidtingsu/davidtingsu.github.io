@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: goals | ]]></title>
+  <link href="http://davidtingsu.github.io/blog/categories/goals/atom.xml" rel="self"/>
+  <link href="http://davidtingsu.github.io/"/>
+  <updated>2014-04-06T21:30:36-07:00</updated>
+  <id>http://davidtingsu.github.io/</id>
+  <author>
+    <name><![CDATA[David Su]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[2014 Initial Goals]]></title>
+    <link href="http://davidtingsu.github.io/blog/2014/04/06/2014-initial-goals/"/>
+    <updated>2014-04-06T21:22:25-07:00</updated>
+    <id>http://davidtingsu.github.io/blog/2014/04/06/2014-initial-goals</id>
+    <content type="html"><![CDATA[<p>To usher in the new year, I making am note of my goals for 2014 and will continue to adjust the list as needed. My motivation to document my milestones began one day on Quora when I came across Karen Cheng’s response to ‘How do you get a job as a designer without going to design school?’, and her other online pursuits such as Giveit100 and her viral ‘Girl learns to Dance in a Year’ video. Ultimately, I was and am convinced that to increase my proactiveness will lead to a better me in 2014.</p>
+
+<ul>
+<li><input type="checkbox"></input> Practice colloquial chinese by reading the comic book 小貝貝</li>
+<li><input type="checkbox"></input> Make a parallax page or use a technique found on <a href="http://csswizardry.com/work/">http://csswizardry.com/work/</a></li>
+<li><input type="checkbox"></input> Finish tasks for IEEE Fall 2014: Facebook + Google Calendar + Rails Admin Integration</li>
+<li><input type="checkbox"></input> Finish Reading Smart Thinking</li>
+<li><input type="checkbox"></input> Complete Adobe CIB Illustrator</li>
+<li><input type="checkbox"></input> Complete Adobe CIB Photoshop</li>
+<li><input type="checkbox"></input> 50 yelp reviews</li>
+<li><input type="checkbox"></input> Complete You Can Draw in 30 Days</li>
+<li><input type="checkbox" checked="checked""></input> Read 7 Effective Habits of Highly Effective People</li>
+<li><input type="checkbox"></input> Get to 180 pounds with a fitness routine</li>
+<li><input type="checkbox" checked="checked"></input> Apply to Innovative Design</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+</feed>
